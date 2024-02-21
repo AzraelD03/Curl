@@ -1,0 +1,19 @@
+{
+    "name": "azrael/curl",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Curl\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "AzraelD03",
+            "email": "azraeldeath03@gmail.com"
+        }
+    ],
+    "require": {
+        "campo/random-user-agent": "*"
+    }
+}
